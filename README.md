@@ -1,58 +1,56 @@
-# Welcome to Van-Wu1.github.io
-# Hiya 😄
-- I'm a **pure beginner** at **CASA** UCL, and you can called me Van.
+<h1 align="center">Hi, I am V 👩‍💻</h1>
+<p align="center">
+  🧭 Spatial thinker | 🎓 UCL Postgrad | 🌍 Geo + Code + Design<br/>
+  <em>“要去码头整点薯条吗？”<br/>"Wanna get some fries down at the pier?" 🐦🍟</em>
+</p>
 
 ---
 
-### WARMING!!!
-- This is a piece of text for testing.
-- It's hard. Oh, my God. （我不是来水硕的吗！
+### 🧠 About Me
+
+- 🎓 Master's student @ **UCL – Urban Spatial Science**
+- 🧪 Working on projects combining **GIS**, **Machine Learning**, and **Web Visualization**
+- 💻 Programming in **Python**, **JavaScript**, and **GEE**
+- 🌐 Exploring **data storytelling**, **interactive maps**, and **urban mobility**
 
 ---
 
-### Contact Me
+### 💼 Current Projects
 
-Feel free to reach out if you have any questions or need assistance.（当然我应该是帮不上忙的哈哈哈哈哈哈
-
----
-
-### Footer
-
-*Last updated: October 8, 2024*
+- 🔍 **Accident Severity Prediction** using ML + network centrality (London)
+- 🚴 **Cycling Accessibility Comparison**: UK, Netherlands, Portugal
+- 🧬 **PharmaNexus** – A 3D geovisual project on pharmaceutical trade flows
 
 ---
 
-### Lists
+### 🛠️ Tech Stack
 
-- 活下去
-- 活下去
-  - 活下去
-  - 活下去
-
-1. 活下去
-2. 活下去
-   1. 活下去
-   2. 活下去
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Mapbox](https://img.shields.io/badge/-Mapbox-4264FB?style=flat&logo=mapbox&logoColor=white)
+![GEE](https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=flat&logo=google&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Spline](https://img.shields.io/badge/-Spline-FFB6C1?style=flat)
 
 ---
 
-### Tables
 
-|  | Emails |
-|----------|----------|
-| Academy    | ucfnwuz@ucl.ac.uk   |
-| Private    | Van_Wu1@outlook.com   |
+### ✨ 7788
 
----
+- 🌊 Loves staring at the sea, once dreamed of living in a glass house by the shore  
+- 🐱 Cat addict — I am a cat.
+- 🧠 ENTP / chaotic idealist / emotional urbanist  
+- 📓 Keeps a dream journal more than a real one — sometimes can't tell which version of me is real  
+- 🎧 Heavy R&B listener
+- 🌈 Lesbian! Loud, proud, soft, and occasionally feral  
 
-### Images
-
-![An image](https://c-ssl.duitang.com/uploads/blog/202207/06/20220706233741_9bd2d.jpeg)
 
 ---
 
-### Click Me!
+### 📫 Reach Me
 
-[Visit my homepage ~](https://github.com/Van-Wu1)
+- 💌 Email: [Van_Wu1@outlook.com](mailto:Van_Wu1@outlook.com)
+- 🌍 Based in: London | 🇨🇳 from Zhejiang, China
+- 🗣️ Languages: 中文 | English
 
 ---
