@@ -42,7 +42,7 @@
 - 🧠 ENTP / chaotic idealist / emotional urbanist  
 - 📓 Keeps a dream journal more than a real one — sometimes can't tell which version of me is real  
 - 🎧 Heavy R&B listener
-- 🌈 Lesbian! Loud, proud, soft, and occasionally feral  
+- 🌈 Loud, proud, soft, and occasionally feral  
 
 
 ---
